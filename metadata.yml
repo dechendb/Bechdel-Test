@@ -1,0 +1,16 @@
+---
+:id: 178974004
+:submitters:
+- :name: Josephine Ramirez
+  :email: jr109@wellesley.edu
+- :name: Lorena Horng
+  :email: lh108@wellesley.edu
+- :name: Dechen Bhuming
+  :email: db109@wellesley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-05-03 21:49:10.076642000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-05-03 14:49:10.076642000 Z
+:status: processed
+:score: 77.0

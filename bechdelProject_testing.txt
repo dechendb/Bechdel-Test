@@ -1,0 +1,63 @@
+
+---Testing with nextBechdel_castGender.txt---
+
+Actor in question: Jennifer Lawrence
+Movies this actor is in: ["X-Men: Apocalypse", "Passengers"]
+-------------------------------
+Movie in question: The Jungle Book
+Actors in this movie: ["Bill Murray", "Ben Kingsley", "Idris Elba", "Lupita Nyong'o", "Scarlett Johansson", "Giancarlo Esposito", "Christopher Walken", "Neel Sethi", "Garry Shandling", "Brighton Rose", "Jon Favreau"]
+
+---Testing moviesAndBechdel()---
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+nextBechdelCast actors that pass: 
+["Don't Breathe", "Bad Moms", "The Boss", "Lights Out"]
