@@ -131,15 +131,11 @@ public class HollywoodApp<T> {
             }
         }
         
-        
-        
-        //To see the generated values for each movie, uncomment this. 
+        //Shows the generated values for each movie
         
         for(int i : bechdelValue){
             System.out.println(i);
         }
-        
-        
 
         return moviesAndBechdel; 
     }
