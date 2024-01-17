@@ -28,12 +28,12 @@ public class Movie {
      * @param g gender of the actor 
      */
     public Movie(String m, String a, String c, String t, String b, String g) {
-        movie = m;
-        actor = a;
-        character = c;
-        type = t;
-        billing = b;
-        gender = g;
+        this.movie = m;
+        this.actor = a;
+        this.character = c;
+        this.type = t;
+        this.billing = b;
+        this.gender = g;
     }
 
     /**
@@ -42,7 +42,7 @@ public class Movie {
      * @return movie String representing the name of the movie
      */
     public String getMovieName() {
-        return movie;
+        return this.movie;
     }
 
     /**
@@ -51,7 +51,7 @@ public class Movie {
      * @return actor String representing the actor
      */
     public String getActor() {
-        return actor;
+        return this.actor;
     }
 
     /**
@@ -60,7 +60,7 @@ public class Movie {
      * @return character the character of the actor 
      */
     public String getCharacter() {
-        return character;
+        return this.character;
     }
 
     /**
@@ -69,7 +69,7 @@ public class Movie {
      * @return type the type of role played
      */
     public String getType() {
-        return type;
+        return this.type;
     }
 
     /**
@@ -78,7 +78,7 @@ public class Movie {
      * @return billing the billing
      */
     public String getBilling() {
-        return billing;
+        return this.billing;
     }
 
     /**
@@ -87,7 +87,7 @@ public class Movie {
      * @return gender gender of the actor
      */
     public String getGender() {
-        return gender;
+        return this.gender;
     }
 
     /**
